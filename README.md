@@ -1,3 +1,2 @@
 # SimpleSploit
-SimpleSploit official GitHub page.
-Every version of SimpleSploit is stored here.
+cancelled page of smimplesplot lool
